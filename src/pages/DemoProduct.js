@@ -7,7 +7,7 @@ import Notiflix from 'notiflix';
 
 const DemoProduct = (props) => {
 
-    useDocTitle('Sample Website | Molad e Konsult - Demo our products')
+    useDocTitle('Prism | Software Solutions')
 
     const [firstName, setFirstName] = useState('')
     const [lastName, setLastName] = useState('')
@@ -200,7 +200,7 @@ const DemoProduct = (props) => {
                                     <p className="text-gray-400">Tel: 123456789</p>
                                     <div className='mt-5'>
                                         <h2 className="text-2xl">Send an E-mail</h2>
-                                        <p className="text-gray-400">info@Sample Website.ng</p>
+                                        <p className="text-gray-400">info@Prism Software Solutions.ng</p>
                                     </div>
                                 </div>
                             </div>

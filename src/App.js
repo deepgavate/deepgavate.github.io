@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("Sample Website | Molad e Konsult - Bespoke Web and Mobile Applications");
+  useDocTitle("Prism | IT Software Solutions");
 
   return (
     <>

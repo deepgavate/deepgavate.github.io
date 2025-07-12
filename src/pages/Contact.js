@@ -6,7 +6,7 @@ import axios from 'axios';
 import Notiflix from 'notiflix';
 
 const Contact = () => {
-    useDocTitle('Sample Website')
+    useDocTitle('Prism Software Solutions')
     const [firstName, setFirstName] = useState('')
     const [lastName, setLastName] = useState('')
     const [email, setEmail] = useState('')
