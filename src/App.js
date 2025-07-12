@@ -34,7 +34,7 @@ function App() {
 
   return (
     <>
-      <Router basename="deepgavate.github.io">
+      <Router basename="/">
         <ScrollToTop>
           <Routes>
             <Route path="/" element={<Home />} />
